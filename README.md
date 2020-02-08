@@ -12,4 +12,5 @@ The program outputs SQL row insert statements, which is best optimized for inser
 Using [GPLv3](LICENSE.md).
 
 ### Authors
-Jaryd Remillard (@KarateDBA)
+Jaryd Remillard [@KarateDBA](https://twitter.com/KarateDBA)
+https://jremillard.com
